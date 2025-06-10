@@ -1,0 +1,76 @@
+# INSTRUÇÕES PARA ELABORAÇÃO DO TIPO ASSERÇÃO-RAZÃO
+
+## CONSIDERAÇÕES INICIAIS
+
+O item de múltipla escolha deve ser pensado como um texto em que o significado global não é simplesmente uma soma do que representa cada parte que o compõe, mas de uma combinação geradora de sentido. Cada parte deve manter relação com as demais, formando um todo organizado. Desse modo, o texto deve apresentar coerência entre as partes, não evidenciando contradições. É essencial que o texto do item se configure como uma unidade de proposição e, sobretudo, que contemple as orientações da encomenda, referenciada na matriz de prova.
+
+A questão é formulada considerando o texto-base, a partir do qual o estudante organiza as ideias, os dados ou as informações necessárias para resolvê-lo. É nesse momento que ele mobiliza diversos recursos, articulando habilidades, saberes, conhecimentos, entre outros, que vão oportunizar a visibilidade de determinada competência ou característica do perfil profissional esperado.
+
+O item do tipo asserção-razão constitui-se de duas proposições que podem ou não ser corretas e, além disso, podem ou não estabelecer uma relação de causa e consequência entre si. Desse modo, são apresentadas duas proposições, interligadas pela palavra PORQUE. O estudante deve avaliar, quando as duas proposições estiverem corretas, se a segunda proposição constitui razão ou justificativa da primeira.
+
+## ESTRUTURA
+
+O enunciado deve apresentar uma informação sintetizada sobre o tema do texto, seguida de uma frase que solicita que o estudante analise as asserções apresentadas e a relação proposta entre elas.
+
+Por fim, é apresentada uma chave de resposta padrão, em que são descritas as opções de resposta propriamente ditas.
+
+As opções de resposta são compostas por uma afirmação sobre a veracidade ou falsidade de cada uma das proposições e, também, sobre a existência ou não de relação de causalidade entre elas. Trata-se de uma chave de respostas padrão, como apresentada a seguir.
+
+(A) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+(B) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+(C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+(D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+(E) As asserções I e II são proposições falsas.
+
+Os itens de asserção-razão são indicados para avaliação de habilidades complexas, pois, além de avaliar a veracidade de cada proposição, o estudante necessita estabelecer relação de causa-consequência entre elas.
+
+
+## INSTRUÇÕES PARA ELABORAÇÃO DAS asserções
+
+Devem ser elaboradas duas asserções, como frases isoladas, sem sugestão de relação entre elas.
+
+A segunda asserção não deve conter expressões do tipo "porque", "em função de", "devido a".
+
+É importante que as asserções não sejam longas para não confundir o estudante.
+
+
+<EXEMPLO>
+
+A modalidade Tarifária Horária Branca, ou, simplesmente, Tarifa Branca, definida na Resolução Normativa ANEEL n. 414/2010, que estabelece as Condições Gerais de Fornecimento de Energia Elétrica, e regulamentada na Resolução Normativa ANEEL n. 733/2016, passou a ser uma opção para alguns consumidores de energia elétrica. Por exemplo, uma unidade consumidora da subclasse Residencial (B1), que possui um consumo mensal médio de 350 kWh, sendo 250 kWh no posto horário fora de ponta, 35 kWh no posto horário intermediário e 65 kWh no posto horário ponta, poderá optar pela Tarifa Branca.
+
+Em relação à Tarifa Branca, avalie as asserções a seguir e a relação proposta entre elas.
+
+I. A Tarifa Branca é uma nova alternativa que sinaliza aos consumidores a variação do valor da energia conforme o dia e o horário do consumo.
+
+PORQUE
+
+II. É importante que o consumidor, antes de optar pela Tarifa Branca, conheça seu perfil de consumo e a relação entre a Tarifa Branca e a Convencional.
+
+A respeito dessas asserções, assinale a opção correta.
+
+(A) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+(B) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+(C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+(D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+(E) As asserções I e II são proposições falsas.
+
+</EXEMPLO>
+
+
+## JUSTIFICATIVAS DAS OPÇÕES DE RESPOSTA
+
+As justificativas devem informar quais asserções estão corretas e quais estão incorretas, bem como o motivo de tais correções/incorreções.
+
+Também devem explicar se há (ou não) relação de causa-efeito entre elas.
+
+Na justificativa dos itens de asserção-razão, além de elementos que comprovem a correção ou incorreção de cada uma das proposições, é fundamental que seja apresentada a razão detalhada para a existência ou inexistência de relação de causalidade entre as asserções.
+
+

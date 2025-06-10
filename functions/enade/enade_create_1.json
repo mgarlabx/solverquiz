@@ -1,0 +1,74 @@
+{
+    "format": {
+        "type": "json_schema",
+        "name": "dummy",
+        "schema": {
+            "type": "object",
+            "properties": {
+                "enunciado": {
+                    "type": "string"
+                },
+                "afirmacao_1": {
+                    "type": "string"
+                },
+                "afirmacao_2": {
+                    "type": "string"
+                },
+                "afirmacao_3": {
+                    "type": "string"
+                },
+                "afirmacao_4": {
+                    "type": "string"
+                },
+                "alternativa_1": {
+                    "type": "string"
+                },
+                "alternativa_2": {
+                    "type": "string"
+                },
+                "alternativa_3": {
+                    "type": "string"
+                },
+                "alternativa_4": {
+                    "type": "string"
+                },
+                "alternativa_5": {
+                    "type": "string"
+                },
+                "correta": {
+                    "type": "string"
+                },
+                "justificativa_1": {
+                    "type": "string"
+                },
+                "justificativa_2": {
+                    "type": "string"
+                },
+                "justificativa_3": {
+                    "type": "string"
+                },
+                "justificativa_4": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "enunciado",
+                "afirmacao_1",
+                "afirmacao_2",
+                "afirmacao_3",
+                "afirmacao_4",
+                "alternativa_1",
+                "alternativa_2",
+                "alternativa_3",
+                "alternativa_4",
+                "alternativa_5",
+                "correta",
+                "justificativa_1",
+                "justificativa_2",
+                "justificativa_3",
+                "justificativa_4"
+            ],
+            "additionalProperties": false
+        }
+    }
+}

@@ -1,0 +1,99 @@
+# INSTRUÇÕES PARA ELABORAÇÃO DE ITENS RESPOSTA MÚLTIPLA
+
+## CONSIDERAÇÕES INICIAIS
+
+O item de múltipla escolha deve ser pensado como um texto em que o significado global não é simplesmente uma soma do que representa cada parte que o compõe, mas de uma combinação geradora de sentido. Cada parte deve manter relação com as demais, formando um todo organizado. Desse modo, o texto deve apresentar coerência entre as partes, não evidenciando contradições. É essencial que o texto do item se configure como uma unidade de proposição e, sobretudo, que contemple as orientações da encomenda, referenciada na matriz de prova.
+
+A questão é formulada considerando o texto-base, a partir do qual o estudante organiza as ideias, os dados ou as informações necessárias para resolvê-lo. É nesse momento que ele mobiliza diversos recursos, articulando habilidades, saberes, conhecimentos, entre outros, que vão oportunizar a visibilidade de determinada competência ou característica do perfil profissional esperado.
+
+O estudante deve analisar quatro afirmações, identificar a(s) afirmação(ões) correta(s) para, em seguida, escolher uma opção em uma chave de respostas.
+
+
+## ESTRUTURA
+
+As questões de resposta múltipla apresentam a seguinte estrutura:
+
+<estrutura>
+
+A partir do texto acima, considere as seguintes afirmações: 
+
+I. Afirmação 1
+
+II. Afirmação 2
+
+III. Afirmação 3
+
+IV. Afirmação 4
+
+É correto apenas o que se afirma em:
+
+(A) I e IV
+
+(B) II e III
+
+(C) III e IV
+
+(D) I, II e III
+
+(E) I, II e IV
+
+</estrutura>
+
+
+
+
+## INSTRUÇÕES PARA ELABORAÇÃO DAS AFIRMAÇÕES
+
+Devem ser elaboradas 4 (quatro) afirmações, as quais devem:
+
+• ser julgadas independentemente umas das outras, como corretas ou incorretas;
+
+• ser redigidas de forma independente do enunciado;
+
+• evitar repetição de palavras que aparecem no enunciado;
+
+• evitar redação muito longa;
+
+• ter estrutura sintática completa e um significado em si mesmas, sendo independentes umas das outras e do texto-base, de modo que não sejam excludentes;
+
+• ter, ao menos, uma afirmação incorreta, aumentando um pouco o grau de dificuldade e contribuindo para avaliar competências mais complexas dos estudantes;
+
+• ser compostas por uma única frase, que se encerra em ponto final;
+
+• evitar que as opções de resposta tornem falsa uma afirmação pela inclusão da palavra “não” na frase ou de qualquer outra palavra de conotação negativa. Frases como essas são facilmente eliminadas pelo estudante;
+
+• evitar que as afirmações tenham como elemento caracterizador o termo “somente” ou outro termo semelhante, pois o estudante pode descartar uma opção de resposta apenas por conter um termo como esse;
+
+• possuir, ao menos, uma afirmação correta;
+
+
+## INSTRUÇÕES PARA ELABORAÇÃO DAS ALTERNATIVAS
+
+Devem ser elaboradas 5 (cinco) alternativas.
+
+Deve-se dimensionar, nas alternativas, o número de vezes que cada afirmação aparece. 
+
+Dessa forma, cada afirmação deve aparecer na mesma quantidade de vezes que as demais e em ordem crescente. 
+
+Esse tipo de cuidado evita que o estudante tente encontrar o gabarito sabendo avaliar somente algumas afirmações. 
+
+Exemplo de alternativas em que as opções estão balanceadas:
+
+<exemplo>
+
+(A) I e IV
+
+(B) II e III
+
+(C) III e IV
+
+(D) I, II e III
+
+(E) I, II e IV
+
+</exemplo>
+
+## JUSTIFICATIVAS DAS OPÇÕES DE RESPOSTA
+
+As justificativas devem informar quais afirmações estão corretas e quais estão incorretas, bem como o motivo de tais correções/incorreções.
+

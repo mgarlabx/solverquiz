@@ -1,0 +1,62 @@
+{
+    "format": {
+        "type": "json_schema",
+        "name": "dummy",
+        "schema": {
+            "type": "object",
+            "properties": {
+                "enunciado": {
+                    "type": "string"
+                },
+                "alternativa_1": {
+                    "type": "string"
+                },
+                "alternativa_2": {
+                    "type": "string"
+                },
+                "alternativa_3": {
+                    "type": "string"
+                },
+                "alternativa_4": {
+                    "type": "string"
+                },
+                "alternativa_5": {
+                    "type": "string"
+                },
+                "correta": {
+                    "type": "string"
+                },
+                "justificativa_1": {
+                    "type": "string"
+                },
+                "justificativa_2": {
+                    "type": "string"
+                },
+                "justificativa_3": {
+                    "type": "string"
+                },
+                "justificativa_4": {
+                    "type": "string"
+                },
+                "justificativa_5": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "enunciado",
+                "alternativa_1",
+                "alternativa_2",
+                "alternativa_3",
+                "alternativa_4",
+                "alternativa_5",
+                "correta",
+                "justificativa_1",
+                "justificativa_2",
+                "justificativa_3",
+                "justificativa_4",
+                "justificativa_5"
+            ],
+            "additionalProperties": false
+        }
+    }
+}

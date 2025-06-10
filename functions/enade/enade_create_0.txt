@@ -1,0 +1,65 @@
+# INSTRUÇÕES PARA ELABORAÇÃO DE ITENS DE RESPOSTA ÚNICA
+
+## CONSIDERAÇÕES INICIAIS
+
+O item de múltipla escolha deve ser pensado como um texto em que o significado global não é simplesmente uma soma do que representa cada parte que o compõe, mas de uma combinação geradora de sentido. Cada parte deve manter relação com as demais, formando um todo organizado. Desse modo, o texto deve apresentar coerência entre as partes, não evidenciando contradições. É essencial que o texto do item se configure como uma unidade de proposição e, sobretudo, que contemple as orientações da encomenda, referenciada na matriz de prova.
+
+O item de múltipla escolha é formulado considerando o texto-base, a partir do qual o estudante organiza as ideias, os dados ou as informações necessárias para resolvê-lo. É nesse momento que ele mobiliza diversos recursos, articulando habilidades, saberes, conhecimentos, entre outros, que vão oportunizar a visibilidade de determinada competência ou característica do perfil profissional esperado.
+
+As ligações textuais entre o enunciado e as opções de resposta requerem atenção, de modo que se estabeleça o paralelismo entre eles e que não haja inadequações de regência ou concordância na passagem de uma parte do item para a outra. Se o enunciado terminar com uma preposição, por exemplo, ela deve estar de acordo com a regência verbal ou nominal das palavras que iniciam todas as opções de resposta. Podem ser necessárias mudanças vocabulares para que tais regras sejam obedecidas.
+
+<EXEMPLO>
+
+O novo Plano Nacional de Turismo (PNT, 2018-2022) mantém a gestão descentralizada como princípio norteador das políticas públicas de turismo no Brasil, com vistas a incrementar a maior participação e representatividade dos agentes produtivos nas diferentes instâncias de governança federal, estadual, regional e local. Contudo, o pouco entendimento sobre as responsabilidades e papéis de cada agente da cadeia produtiva do setor representa ainda um grande desafio à concretização de processos de gestão e planejamento participativo no âmbito do turismo brasileiro.
+
+MINISTÉRIO DO TURISMO. Secretaria Nacional de Qualificação e Promoção do Turismo. Plano Nacional de Turismo 2018-2022: mais emprego e renda para o Brasil. Brasília, MTur, 2017 (adaptado).
+
+Considerando as informações do texto bem como as responsabilidades do Estado no processo de gestão e planejamento descentralizado do turismo, é correto afirmar que o Estado é responsável por
+
+(A) apoiar o funcionamento das instâncias de governança regionais e incentivar a criação e/ou o fortalecimento dos conselhos municipais de turismo.
+
+(B) garantir que a iniciativa privada promova ações periódicas voltadas à formação e capacitação de recursos humanos, visando a incrementar a qualidade dos serviços ofertados aos turistas.
+
+(C) intervir nas iniciativas locais de planejamento turístico, viabilizar o funcionamento efetivo das instâncias de governança regionais e incentivar a mobilização dos conselhos municipais de turismo.
+
+(D) viabilizar a participação da classe empresarial na implantação e adequação da infraestrutura dos destinos turísticos bem como na modernização de equipamentos e serviços de hospedagem, alimentação e recreação.
+
+(E) promover a mobilização entre os diversos atores, como agentes públicos, instituições de ensino, classe empresarial e sociedade civil organizada, de forma a incentivar ações individualizadas no âmbito do processo de planejamento turístico.
+
+</EXEMPLO>
+
+
+## OPÇÕES DE RESPOSTA
+
+Quanto às opções de resposta, para se apresentarem dentro de um parâmetro aceitável para o BNI, elas devem:
+
+• ter paralelismo sintático e semântico;
+
+• ser dispostas de maneira lógica (sequência narrativa, alfabética, crescente/decrescente etc.);
+
+• estar padronizadas, obedecendo à forma trapezoidal;
+
+• evitar repetição de palavras que aparecem no enunciado e opções de resposta muito longas;
+
+• evitar a falsidade da afirmação pela inclusão da palavra “não” na frase ou de qualquer outra palavra de conotação negativa. Frases como essas são facilmente eliminadas pelo estudante;
+
+• evitar que as opções de resposta tenham como elemento caracterizador termos como “somente”, “apenas, “exclusivamente”, “sempre”, “nunca”, “todos”, pois o estudante pode descartar uma opção de resposta apenas por conter um desses termos.
+
+
+## JUSTIFICATIVAS
+
+As justificativas deverão informar exatamente os motivos pelos quais cada uma das opções apresentadas representa ou não a resposta correta. Nos itens de resposta única, as justificativas devem conter os fundamentos que validam o gabarito como a única opção correta e os distratores como opções incorretas. Justificativas tautológicas, ou seja, que apenas reproduzem o conteúdo da opção de resposta, não serão aceitas. Cada uma delas deverá começar com a palavra CERTA ou ERRADA, seguidas de ponto final e da explicação devida, conforme exemplo a seguir.
+
+<EXEMPLO>
+
+(A) ERRADA O estudante não compreende a situação proposta e considera que (...).
+
+(B) ERRADA O estudante compreendeu a situação, mas não teve êxito em realizar os cálculos necessários para (…).
+
+(C) CERTA O estudante raciocina corretamente e conclui que (...), o que está fundamentado na teoria de (…).
+
+(D) ERRADA O estudante não é capaz de diferenciar os conceitos que determinam a aplicação de (…).
+
+(E) ERRADA O estudante aplica de maneira inadequada as regras de sucessão (…).
+
+</EXEMPLO>
