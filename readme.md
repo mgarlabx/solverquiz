@@ -10,6 +10,8 @@ O SolverQuiz foi concebido para funcionar com três ferramentas principais: `Ope
 
 É preciso obter uma chave da API da OpenAI, a qual pode ser obtida nesse [link](https://platform.openai.com/api-keys).
 
+Além disso, é preciso instalar a sua biblioteca com `pip install openai` .
+
 ### Zotero
 
 O Zotero é um software gratuito e de código aberto que ajuda pesquisadores a coletar, organizar, citar e compartilhar referências bibliográficas e materiais de pesquisa. As referências selecionadas serão arquivadas no Zotero e utilizadas para a elaboração do texto-base das questões.
@@ -28,17 +30,7 @@ O Streamlit é uma biblioteca Python de código aberto que permite criar e compa
 
 O SolverQuiz foi desenvolvido para rodar totalmente em Python, através do Streamlit. Portanto, é preciso de alguma experiência nessa biblioteca para instalar e rodar o SolverQuiz. Clique [aqui](https://streamlit.io/) para saber mais sobre o Streamlit.
 
-Após baixar os códigos do Github, é preciso criar uma pasta chamada `.streamlit` e nela criar o arquivo `secrets.toml` com o seguinte conteúdo:
-
-```
-OPENAI_API_KEY = "SUA-CHAVE-DA-API-DA-OPENAI"
-ZOTERO_API_KEY = "SUA-CHAVE-DA-API-DO-ZOTERO"
-ZOTERO_USER_ID = "SEU-USER-ID-DO-ZOTERO"
-ZOTERO_COLLECTION_KEY = "SUA-CHAVE-DA-COLECAO-DO-ZOTERO"
-
-[connections.questoes_db]
-url = "sqlite:///questoes.db"
-```
+Após baixar os códigos do Github, na pasta `.streamlit` é preciso renomerar o arquivo `secretsRENAME.toml` para `secrets.toml` e informar as chaves e IDs de acesso.
 
 ## Funcionamento
 
@@ -63,5 +55,3 @@ Essa tela irá exibir os artigos selecionados para uma revisão e escolha daquel
 ### 5. Consultar
 
 Nessa etapa são listadas as questões selecionadas. Nesse momento, é possível `editar` o conteúdo de cada questão, fazendo pequenos ajustes que eventualmente sejam necessários. Além disso, é possível `baixar` a questão no formato JSON (para ser importada em outros sistemas), bem como `excluir` se for o caso.
-
-

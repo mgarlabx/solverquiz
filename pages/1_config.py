@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-with open("portarias.json", "r") as file:
+with open("portarias.json", "r", encoding="utf-8") as file:
     portarias = file.read()
 
 portarias = json.loads(portarias)
