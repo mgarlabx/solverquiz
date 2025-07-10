@@ -1,12 +1,13 @@
 import streamlit as st
+from sqlalchemy import text
 
 # Recupera os itens do banco de dados
 def get_items():
     conn = st.connection('questoes_db', type='sql')
     with conn.session as s:
-        sql = "SELECT * FROM tb_questoes;"
+        sql = text("SELECT * FROM tb_questoes;")
         result = s.execute(sql)
-        items = result.fetchall()
+        items = [dict(row._mapping) for row in result.fetchall()]
     return items
 
 # Insere um novo item no banco de dados
@@ -33,7 +34,7 @@ def insert_item():
     justificativa_4       = st.session_state['question']['justificativa_4']
     justificativa_5       = st.session_state['question']['justificativa_5']
 
-    sql = f"""INSERT INTO tb_questoes 
+    sql = text(f"""INSERT INTO tb_questoes 
         (
             zotero_collection_key,
             zotero_item_key,
@@ -78,7 +79,7 @@ def insert_item():
             '{justificativa_3}',
             '{justificativa_4}',
             '{justificativa_5}'
-        );"""
+        );""")
 
     conn = st.connection('questoes_db', type='sql')
     with conn.session as s:
@@ -87,7 +88,7 @@ def insert_item():
 
 # Exclui um item do banco de dados
 def delete_item(item_id):
-    sql = f"DELETE FROM tb_questoes WHERE id = {item_id};"
+    sql = text(f"DELETE FROM tb_questoes WHERE id = {item_id};")
     conn = st.connection('questoes_db', type='sql')
     with conn.session as s:
         s.execute(sql)
@@ -95,7 +96,7 @@ def delete_item(item_id):
 
 # Atualiza um item existente no banco de dados
 def save_item(item):
-    sql = f"""UPDATE tb_questoes SET
+    sql = text(f"""UPDATE tb_questoes SET
         texto_base = '{item['texto_base']}',
         referencia = '{item['referencia']}',
         enunciado = '{item['enunciado']}',
@@ -110,7 +111,7 @@ def save_item(item):
         justificativa_3 = '{item['justificativa_3']}',
         justificativa_4 = '{item['justificativa_4']}',
         justificativa_5 = '{item['justificativa_5']}'
-        WHERE id = {item['id']};"""
+        WHERE id = {item['id']};""")
 
     conn = st.connection('questoes_db', type='sql')
     with conn.session as s:

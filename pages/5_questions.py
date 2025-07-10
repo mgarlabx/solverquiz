@@ -3,6 +3,8 @@ import json
 from io import BytesIO
 import functions.db.db as db
 
+
+    
 # Calcula a altura do campo de texto baseado no tamanho do texto
 def get_height(text):
     line_breaks = text.count('\n')
@@ -31,6 +33,8 @@ for question in questions:
         nivel = "Média"
     elif question['nivel_questao'] == "2":
         nivel = "Difícil"
+
+    
 
     # Formata a data de criação DD/MM/AAAA HH:MM
     data = question['data_insert']
