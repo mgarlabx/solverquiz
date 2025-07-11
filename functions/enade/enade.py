@@ -32,8 +32,8 @@ def create(curso, assunto, caracteristicas, competencias, texto_base, tipo, nive
     
     client = OpenAI(api_key = openai_api_key)
 
-    with open(f"functions/enade/enade_create_{tipo}.json", "r") as file: schema = json.load(file)
-    with open(f"functions/enade/enade_create_{tipo}.txt", "r") as file: instructions = file.read()
+    with open(f"functions/enade/enade_create_{tipo}.json", "r", encoding="utf-8") as file: schema = json.load(file)
+    with open(f"functions/enade/enade_create_{tipo}.txt", "r", encoding="utf-8") as file: instructions = file.read()
 
     type = "resposta única"
     if tipo == 1:
