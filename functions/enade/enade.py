@@ -48,7 +48,7 @@ def create(curso, assunto, caracteristicas, competencias, texto_base, tipo, nive
     A questão deverá ser elaborada considerando as seguintes características do perfil do egresso: {caracteristicas}.
     As competências a serem avaliadas são: {competencias}.
     O grau de dificuldade da questão deverá ser {nivel}.
-    Conisere esse texto-base: {texto_base}.
+    Considere esse texto-base: {texto_base}.
     Elabore cinco alternativas de resposta, mas não coloque A, B, C, D ou E antes de cada alternativa.
     A resposta correta deverá ser A, B, C, D ou E.
     Siga essas instruções:
